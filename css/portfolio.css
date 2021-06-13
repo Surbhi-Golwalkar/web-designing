@@ -1,0 +1,286 @@
+*{
+				margin:0px;
+				padding: 0px;
+
+}
+.navbar{
+				background: url(https://st.depositphotos.com/1813786/1621/v/600/depositphotos_16216633-stock-illustration-floral-seamless-summer-ornament.jpg);
+				background-repeat: no-repeat;
+				background-size: cover;
+				height: 100%;
+		}
+body{
+				background: url(https://st.depositphotos.com/1813786/1621/v/600/depositphotos_16216633-stock-illustration-floral-seamless-summer-ornament.jpg);
+				background-size: cover;
+				background-repeat: no-repeat;
+}
+ul li{
+				
+				background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgqcGnki5kVjjoP4QC91PJ-ny66BYzwx3fQ&usqp=CAU);
+				background-size: cover;
+				background-repeat: no-repeat;
+				
+				width: 119px;
+				height: 123px;
+				text-align: center;
+				
+				font-weight: bold;
+				font-family: sans-serif;
+				line-height: 40px;
+			}
+ul li a{
+				text-decoration: none;
+				color: white;
+			}
+.active{
+				background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpdsD5yaPBYLf8FCaUGWQn0eaz597IrjfvA&usqp=CAU);
+			}
+ul li:hover{
+				background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpdsD5yaPBYLf8FCaUGWQn0eaz597IrjfvA&usqp=CAU);
+			}
+.a{
+				border: 9px solid #000825;
+				border-radius: 15px;
+				width: 462px;
+				height: 575px;
+				margin-left: 815px;
+    			margin-top: -640px;
+		}
+
+h1{
+				font-family: 'Rammetto One', cursive;
+				margin-top: -500px;
+			    font-size: 42px;
+			    margin-left: 172px;
+			    color: white;
+			    border: 2px solid #140b44;
+			    width: 208px;
+			    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpdsD5yaPBYLf8FCaUGWQn0eaz597IrjfvA&usqp=CAU);
+			}
+h2{
+				margin-left: 384px;
+			    font-family: 'Rammetto One', cursive;
+			    margin-top: -75px;
+			    border: 2px solid black;
+			    width: 354px;
+			    font-size: 42px;
+			    color: white;
+			    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpdsD5yaPBYLf8FCaUGWQn0eaz597IrjfvA&usqp=CAU);
+}
+h3{
+				font-size: 10px;
+			    font-family: 'Rammetto One', cursive;
+			    width: 569px;
+			    margin-left: 175px;
+			    margin-top: 36px;
+			    color: black;
+			    
+}
+.social-media{
+
+				width: 228px;
+			    height: 60px;
+			    margin-left: 129px;
+			    margin-top: 1px;
+			    line-height: 5;
+			  
+			}
+.heading{
+				font-size: 50px;
+			    margin-left: 202px;
+			    margin-top: -687px;
+			    color: #050f2c;
+			    font-family: 'Fascinate', cursive;
+}
+
+.about {
+			    font-size: 28px;
+			    /*border: 2px solid black;*/
+			    width: 1012px;
+			    margin-left: 205px;
+			    margin-top: -28px;
+			    font-family: 'Amaranth', sans-serif;
+			    text-transform: lowercase;
+}
+.about1 {
+			    
+			    width: 1012px;
+			    margin-left: -3px;
+			    margin-top: -2px;
+			    
+}
+.ability{
+				width: 1103px;
+			    height: 322px;
+			   /* border: 2px solid black;*/
+			    margin-left: 176px;
+			    margin-top: 29px;
+}
+.div1{
+				/*border: 2px solid black;*/
+			    width: 200px;
+			    height: 264px;
+			    margin: 10px;
+			    margin-left: 48px;
+			    margin-top: 7px;
+			    float: left;
+}
+.main-heading{
+				background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpdsD5yaPBYLf8FCaUGWQn0eaz597IrjfvA&usqp=CAU);
+				width: 1044px;
+			    height: 34px;
+			  /*  border: 2px solid black;*/
+			    margin-left: 22px;
+			    font-family: 'Amaranth', sans-serif;
+			    font-size: 30px;
+			    color: #fbfdfc;
+}
+.resume{
+				width: 405px;
+			    height: 507px;
+			    border: 2px solid black;
+			    margin-left: 886px;
+			    margin-top: -600px;
+}
+.resume-heading{
+				margin-left: 183px;
+			    margin-top: -576px;
+			    font-size: 42px;
+			    color: #050f2c;
+			    font-family: 'Fascinate', cursive;
+			    text-decoration: underline;
+			}
+
+.resume-preview{
+				font-size: 42px;
+			    font-family: 'Fascinate', cursive;
+			    margin-left: 887px;
+			    margin-top: -54px;
+			    color: #050f2c;
+			    text-decoration: underline;
+			}
+
+.resume-details{
+				font-size: 20px;
+				color: black;
+				font-family: 'Amaranth', sans-serif;
+
+}
+span{
+				 font-size: 25px;
+				 color: #a0063f;
+				 font-family: 'Amaranth', sans-serif;
+				 text-decoration: underline;
+				 
+
+
+}
+.style{
+				width: 730px;
+			    height: 500px;
+			    /*border: 2px solid black;*/
+			    margin-left: 183px;
+			    margin-top: -12px;
+			}
+
+button{
+				width: 292px;
+			    height: 54px;
+			    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpdsD5yaPBYLf8FCaUGWQn0eaz597IrjfvA&usqp=CAU);
+			    color: white;
+			    font-family: 'Amaranth', sans-serif;
+			    font-size: 20px;
+			    margin-left: 946px;
+			    margin-top: 25px;
+			    border-radius: 30px;
+
+}
+.socialize{
+				    width: 326px;
+				    height: 32px;
+				    font-size: 24px;
+				    /* border: 2px solid #e03785; */
+				    text-align: center;
+				    border-radius: 12px;
+				    margin-left: 51px;
+				    margin-top: -669px;
+				    background-color: #011135;
+				    color: white;
+}
+
+.social-media-contact{
+
+				width: 331px;
+			    height: 60px;
+			    line-height: 5;
+			    /*border:2px black solid;*/
+			    margin-left: 535px;
+  				margin-top: 22px;
+			  
+			}
+
+.social-media-contact-details{
+
+				margin-top: 16px;
+    			margin-left: 48px;
+			}
+.socialize-a{
+				    width: 326px;
+			    height: 32px;
+			    font-size: 24px;
+			    /*border: 2px solid #e03785;*/
+			    text-align: center;
+			    border-radius: 12px;
+			    margin-left: 51px;
+			    background-color: #011135;
+			    color: white;
+			    margin-top: 55px;
+	
+}
+.mail{
+			border: 2px grey solid;
+		    width: 523px;
+		    height: 297px;
+		    background: #d4cdfb85;
+		    margin-top: -44px;
+		    border-radius: 46px;
+		    text-align: center;
+		    margin-left: 40px;
+		}
+
+.socialize-a-mail{
+				    width: 326px;
+			    height: 32px;
+			    font-size: 24px;
+			    /*border: 2px solid #e03785;*/
+			    text-align: center;
+			    border-radius: 12px;
+			    margin-left: 11px;
+			    background-color: #011135;
+			    color: white;
+			    margin-top: 15px;
+	
+}
+.x{
+				margin-top: -29px;
+			    margin-left: 6px;
+			    font-size: 17px;
+			    text-align: center;
+			    font-weight: bold;
+			    color: #011135;
+}
+.submit{
+		    width: 126px;
+		    height: 26px;
+		    margin-top: -11px;
+		    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpdsD5yaPBYLf8FCaUGWQn0eaz597IrjfvA&usqp=CAU);
+		    color: white;
+		    font-size: 9px;
+		    font-weight:bold;
+		    border-radius: 15px;
+}
+.elements{
+	    border: 2px solid black;
+    height: 23px;
+    margin-top: -3px;
+}
